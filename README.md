@@ -18,3 +18,9 @@ sudo usermod -aG docker $USER
 wget https://bit.ly/2ysbOFE -O script.sh
 chmod +x script.sh
 ./script.sh
+
+
+
+
+
+https://github.com/hyperledger/fabric/releases /download/v2. 5. 4/hyperledger-fabric-linux-amd64-2 . 5. 4. tar.gz
